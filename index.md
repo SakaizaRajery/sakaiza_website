@@ -11,11 +11,15 @@ I am currently researching how machine learning methods can help extract knowled
 
 {% capture text %}
 
-🎨 **Currently drawing/painting:** *A flower*
-📖 **Reading: CANCER:** *Maladie genetique ou crise energetique cellulaire by Dr Eleonore Djikeussi* 
+🎨 **Currently drawing/painting:** *A flower*  
+
+📖 **Reading:** *CANCER: Maladie genetique ou crise energetique cellulaire by Dr Eleonore Djikeussi*  
+
 🎷 **Learning/playing:** *Bongo*  
+
 💃 **Movement:** *Gym*  
-🔭 **Curious about:** *Health ethics and social inclusivity*
+
+🔭 **Curious about:** *Health ethics and social inclusivity*  
 
 {%
   include button.html
