@@ -16,4 +16,4 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-{% include list.html data="projects" %}
+{% include list.html component="citation" data="projects" style="rich" %}
