@@ -43,7 +43,7 @@ I am currently researching how machine learning methods can help extract knowled
 
 {% capture text %}
 
-I would like to start writing about cross-sectionality of ideas. I love uncovering pattern between concepts that we might initially think of as exclusive of one another. I also love learning new knowledge (at least to me) within specific fields. Here is to manifesting a future full of writing on topics of:
+I would like to start writing about cross-sectionality of ideas. I love uncovering pattern between concepts that we might initially think of as exclusive of one another. I also love learning new (to me at least) knowledge  within specific fields. Here is to manifesting a future full of writing on topics of:
 
 **History, science, psychology, space, people, anything really**
 
@@ -52,7 +52,7 @@ I would like to start writing about cross-sectionality of ideas. I love uncoveri
   link="blog/"
   text="Read all past articles"
   icon="fa-solid fa-arrow-right"
-  flip=true
+  flip=false
   style="bare"
 %}
 
