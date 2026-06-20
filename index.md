@@ -37,6 +37,7 @@ I am currently researching how machine learning methods can help extract knowled
   image="images/photo.jpg"
   link="explore/"
   text=text
+  flip=false
 %}
 
 ## Ideas I’m Exploring
@@ -52,7 +53,7 @@ I would like to start writing about cross-sectionality of ideas. I love uncoveri
   link="blog/"
   text="Read all past articles"
   icon="fa-solid fa-arrow-right"
-  flip=false
+  flip=true
   style="bare"
 %}
 
@@ -63,4 +64,6 @@ I would like to start writing about cross-sectionality of ideas. I love uncoveri
   image="images/photo.jpg"
   link="blog/"
   text=text
+  flip=true
+
 %}
