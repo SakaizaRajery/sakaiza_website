@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Explore
 nav:
   order: 1
   tooltip: art and hobbies
