@@ -34,7 +34,7 @@ I am currently researching how machine learning methods can help extract knowled
 
 {%
   include feature.html
-  image="images/whatmupto.jpg"
+  image="images/photo.jpg"
   link="explore/"
   text=text
   flip=false
