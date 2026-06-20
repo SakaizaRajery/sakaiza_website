@@ -43,21 +43,21 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Sakaiza Rajery</title>
+<title>Blog | Sakaiza Rajery</title>
 
 <link rel="icon" href="/images/icon.png">
 
-<meta name="title" content="">
+<meta name="title" content="Blog">
 <meta name="description" content="Sakaiza's personal website">
 
-<meta property="og:title" content="">
+<meta property="og:title" content="Blog">
 <meta property="og:site_title" content="Sakaiza Rajery">
 <meta property="og:description" content="Sakaiza's personal website">
 <meta property="og:url" content="https://sakaizarajery.com">
 <meta property="og:image" content="/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="">
+<meta property="twitter:title" content="Blog">
 <meta property="twitter:description" content="Sakaiza's personal website">
 <meta property="twitter:url" content="https://sakaizarajery.com">
 <meta property="twitter:card" content="summary_large_image">
@@ -73,9 +73,9 @@
     
       "@type": "WebSite",
     
-    "name": "",
+    "name": "Blog",
     "description": "Sakaiza&apos;s personal website",
-    "headline": "",
+    "headline": "Blog",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/images/icon.png" }
@@ -379,7 +379,7 @@
 
 
 
-<header class="background" style="--image: url('/images/background.jpg')" data-dark="true" data-big>
+<header class="background" style="--image: url('/images/background.jpg')" data-dark="true">
   <a href="/" class="home">
     
       <span class="logo">
@@ -511,9 +511,11 @@
   
 
   <section class="background" data-size="page">
-    <h1 id="hi-my-name-is-sakaiza">Hi, My name is Sakaiza</h1>
+    <h1 id="blog">
+<i class="icon fa-solid fa-feather-pointed"></i>Blog</h1>
 
-<p>I am currently researching how machine learning methods can help extract knowledge from multi-omics data and advance our understanding of autoimmune diseases. I am also Interested in how data-driven health tools are understood and used beyond academia. Finally, I love exploring how creative practices can serve as a medium for healing.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
   </section>
 
   
@@ -527,61 +529,249 @@
   <size></size>
 -->
 
-<h2 id="what-im-up-to-these-days">What I’m up to these days</h2>
+<div class="search-box">
+  <input type="text" class="search-input" oninput="onSearchInput(this)" placeholder="Search items on this page">
+  <button disabled data-tooltip="Clear search" aria-label="clear search" onclick="onSearchClear()">
+    <i class="icon fa-solid fa-magnifying-glass"></i>
+  </button>
+</div>
 
-<div class="feature">
-  <a href="/blog" class="feature-image" aria-label="feature link">
-    <img src="/images/photo.jpg" loading="lazy" alt="feature image" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-  </a>
-  <div class="feature-text">
+<div class="tags">
+    
+      <a href="/explore/?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
+        biology
+      </a>
+    
+      <a href="/explore/?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
+        medicine
+      </a>
+    
+      <a href="/explore/?search=%22tag:%20big-data%22" class="tag" data-tooltip='Show items with the tag "big-data"'>
+        big-data
+      </a>
+    
+  </div>
+
+<div class="search-info"></div>
+
+<h3 id="2023">2023</h3>
+
+<div class="post-excerpt-container">
+  <div class="post-excerpt">
     
     
-<p>🎨 <strong>Currently drawing/painting:</strong> <em>A flower</em></p>
+    
 
-<p>📖 <strong>Reading:</strong> <em>CANCER: Maladie genetique ou crise energetique cellulaire by Dr Eleonore Djikeussi</em></p>
+    
+      <a href="/2023/02/23/example-post-3.html" class="post-excerpt-image" aria-label="Example post 3">
+        <img src="/images/photo.jpg" alt="Example post 3" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      </a>
+    
 
-<p>🎷 <strong>Learning/playing:</strong> <em>Bongo</em></p>
+    <div class="post-excerpt-text">
+      <a href="/2023/02/23/example-post-3.html">Example post 3</a>
 
-<p>💃 <strong>Movement:</strong> <em>Gym</em></p>
-
-<p>🔭 <strong>Curious about:</strong> <em>Health ethics and social inclusivity</em></p>
-
-<div class="button-wrapper">
-    <a class="button" href="/blog/art" data-style="bare" data-flip="" aria-label="fa-solid fa-arrow-right">
-      <i class="icon fa-solid fa-arrow-right"></i>
+      <div class="post-info">
+  
+    
+    
       
-        <span>See all past explorations</span>
       
-    </a>
+        <span data-tooltip="Author">
+          <i class="icon fa-solid fa-feather-pointed"></i>
+          <span>john-doe</span>
+        </span>
+      
+    
+  
+
+  
+  
+
+  
+    <span data-tooltip="Originally published on">
+      <i class="icon fa-regular fa-calendar"></i>
+      <span>February 23, 2023</span>
+    </span>
+  
+
+  
+    <span data-tooltip="Last updated on">
+      <i class="icon fa-solid fa-clock-rotate-left"></i>
+      <span>June 20, 2026</span>
+    </span>
+  
+</div>
+
+
+  
+
+
+  <div class="tags">
+    
+      <a href="/blog?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
+        biology
+      </a>
+    
+      <a href="/blog?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
+        medicine
+      </a>
+    
   </div>
 
 
+
+
+
+      
+      
+      <p data-search="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+      </p>
+    </div>
   </div>
 </div>
 
-<h2 id="ideas-im-exploring">Ideas I’m Exploring</h2>
+<h3 id="2021">2021</h3>
 
-<div class="feature">
-  <a href="/blog/writings" class="feature-image" aria-label="feature link">
-    <img src="/images/photo.jpg" loading="lazy" alt="feature image" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-  </a>
-  <div class="feature-text">
+<div class="post-excerpt-container">
+  <div class="post-excerpt">
     
     
-<p>I would like to start writing about cross-sectionality of ideas. I love uncovering pattern between concepts that we might initially think of as exclusive of one another. I also love learning new knowledge (at least to me) within specific fields. Here is to manifesting a future full of writing on topics of:</p>
+    
 
-<p><strong>History, science, psychology, space, people, anything really</strong></p>
+    
 
-<div class="button-wrapper">
-    <a class="button" href="/blog/writings" data-style="bare" data-flip="" aria-label="fa-solid fa-arrow-right">
-      <i class="icon fa-solid fa-arrow-right"></i>
+    <div class="post-excerpt-text">
+      <a href="/2021/09/30/example-post-2.html">Example post 2</a>
+
+      <div class="post-info">
+  
+    
+    
       
-        <span>Read all past articles</span>
       
-    </a>
+        <span data-tooltip="Author">
+          <i class="icon fa-solid fa-feather-pointed"></i>
+          <span>jane-smith</span>
+        </span>
+      
+    
+  
+
+  
+  
+
+  
+    <span data-tooltip="Originally published on">
+      <i class="icon fa-regular fa-calendar"></i>
+      <span>September 30, 2021</span>
+    </span>
+  
+
+  
+    <span data-tooltip="Last updated on">
+      <i class="icon fa-solid fa-clock-rotate-left"></i>
+      <span>June 20, 2026</span>
+    </span>
+  
+</div>
+
+
+  
+
+
+
+
+
+
+      
+      
+      <p data-search="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+      </p>
+    </div>
+  </div>
+</div>
+
+<h3 id="2019">2019</h3>
+
+<div class="post-excerpt-container">
+  <div class="post-excerpt">
+    
+    
+    
+
+    
+
+    <div class="post-excerpt-text">
+      <a href="/2019/01/07/example-post-1.html">Example post 1</a>
+
+      <div class="post-info">
+  
+    
+    
+      
+      
+        <span data-tooltip="Author">
+          <i class="icon fa-solid fa-feather-pointed"></i>
+          <span>sarah-johnson</span>
+        </span>
+      
+    
+  
+
+  
+  
+
+  
+    <span data-tooltip="Originally published on">
+      <i class="icon fa-regular fa-calendar"></i>
+      <span>January 07, 2019</span>
+    </span>
+  
+
+  
+    <span data-tooltip="Last updated on">
+      <i class="icon fa-solid fa-clock-rotate-left"></i>
+      <span>June 20, 2026</span>
+    </span>
+  
+</div>
+
+
+  
+
+
+  <div class="tags">
+    
+      <a href="/blog?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
+        biology
+      </a>
+    
+      <a href="/blog?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
+        medicine
+      </a>
+    
+      <a href="/blog?search=%22tag:%20big-data%22" class="tag" data-tooltip='Show items with the tag "big-data"'>
+        big-data
+      </a>
+    
   </div>
 
 
+
+
+
+      
+      
+      <p data-search="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+      </p>
+    </div>
   </div>
 </div>
   </section>
