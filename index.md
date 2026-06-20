@@ -23,7 +23,7 @@ I am currently researching how machine learning methods can help extract knowled
 
 {%
   include button.html
-  link="blog/art"
+  link="explore"
   text="See all past explorations"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -35,7 +35,7 @@ I am currently researching how machine learning methods can help extract knowled
 {%
   include feature.html
   image="images/photo.jpg"
-  link="blog"
+  link="explore"
   text=text
 %}
 
@@ -49,7 +49,7 @@ I would like to start writing about cross-sectionality of ideas. I love uncoveri
 
 {%
   include button.html
-  link="blog/writings"
+  link="blog"
   text="Read all past articles"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -61,6 +61,6 @@ I would like to start writing about cross-sectionality of ideas. I love uncoveri
 {%
   include feature.html
   image="images/photo.jpg"
-  link="blog/writings"
+  link="blog"
   text=text
 %}
