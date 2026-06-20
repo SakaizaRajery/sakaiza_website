@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Sakaiza Rajery
-subtitle: Doctoral student in Human Medical Genetics & Genomics
-description: Currently researching how machine learning methods can help extract knowledge from multi-omics data and advance our understanding of autoimmune diseases. Interested in how data-driven health tools are understood and used beyond academia. Exploring how creative practices can serve as a medium for healing.
+subtitle:
+description: Sakaiza's personal website
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
