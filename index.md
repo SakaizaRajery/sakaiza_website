@@ -11,9 +11,9 @@ I am currently researching how machine learning methods can help extract knowled
 
 {% capture text %}
 
-🎨 **Currently drawing/painting:** *A flower*  
+🎨 **Currently drawing/painting:** *Sunflower sunset*  
 
-📖 **Reading:** *CANCER: Maladie genetique ou crise energetique cellulaire by Dr Eleonore Djikeussi*  
+📖 **Reading:** *CANCER: Maladie génétique ou crise energétique cellulaire by Dr Eléonore Djikeussi*  
 
 🎷 **Learning/playing:** *Bongo*  
 
