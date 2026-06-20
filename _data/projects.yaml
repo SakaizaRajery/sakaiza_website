@@ -6,7 +6,7 @@
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - Research
+    - research
   authors: Sakaiza Rajery
   publisher: R, Python
   date: 2026-01-01
@@ -20,11 +20,11 @@
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - Fashion
+    - animation
   authors: Sakaiza Rajery
   publisher: CLO3D
   date: 2026-01-01
-  id: Animation
+  id: fashion
 
 - title: Cool Tutorial
   subtitle: a subtitle
@@ -33,11 +33,11 @@
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - Originals
+    - music
   authors: Sakaiza Rajery
   publisher: Musescore
   date: 2026-01-01
-  id: Music
+  id: Originals
 
 - title: Cool Web App
   subtitle: a subtitle
@@ -46,7 +46,11 @@
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - miscellaneous
+  authors: Collab
+  publisher: Procreate dreams
+  date: 2026-01-01
+  id: sample
 
 - title: Cool Web Server
   subtitle: a subtitle
@@ -55,4 +59,8 @@
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - miscellaneous
+  authors: Collab
+  publisher: My hands
+  date: 2026-01-01
+  id: Art
