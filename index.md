@@ -40,7 +40,7 @@ I am currently researching how machine learning methods can help extract knowled
   flip=false
 %}
 
-## Ideas I’m Exploring
+## Ideas in progress
 
 {% capture text %}
 
