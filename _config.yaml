@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: SakaizaRajery
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Sakaiza Rajery
+subtitle: Doctoral student in Human Medical Genetics & Genomics
+description: Currently researching how machine learning methods can help extract knowledge from multi-omics data and advance our understanding of autoimmune diseases. Interested in how data-driven health tools are understood and used beyond academia. Exploring how creative practices can serve as a medium for healing.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
@@ -10,10 +10,8 @@ proofer: false
 links:
   email: contact@SakaizaRajery.com
   orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
   github: SakaizaRajery
-  twitter: SakaizaRajery
-  youtube: SakaizaRajery
+  instagram: SakaizaRajery
 
 ### jekyll settings
 
@@ -24,11 +22,6 @@ defaults:
       path: ""
     values:
       layout: default
-  # markdown files in /_members
-  - scope:
-      type: "members"
-    values:
-      layout: member
   # markdown files in /_posts
   - scope:
       type: "posts"
@@ -36,9 +29,6 @@ defaults:
       layout: post
 
 collections:
-  # generate page for each member
-  members:
-    output: true
   # generate page for each post
   posts:
     output: true
