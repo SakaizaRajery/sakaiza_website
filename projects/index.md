@@ -1,10 +1,9 @@
 ---
 title: Projects
-nav:
-  order: 3
-  tooltip: datasets, scores, and patterns
+nav: false
 ---
-
+order: 3
+  tooltip: datasets, scores, and patterns
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
