@@ -1,22 +1,26 @@
 ---
 ---
 
-# SakaizaRajery's Website
+# Hi, My name is Sakaiza
 
-An engaging 1-3 sentence description of your lab.
+I am currently researching how machine learning methods can help extract knowledge from multi-omics data and advance our understanding of autoimmune diseases. I am also Interested in how data-driven health tools are understood and used beyond academia. Finally, I love exploring how creative practices can serve as a medium for healing.
 
 {% include section.html %}
 
-## Highlights
+## What I'm up to these days
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+🎨 **Currently drawing/painting:** *A flower*
+📖 **Reading: CANCER:** *Maladie genetique ou crise energetique cellulaire by Dr Eleonore Djikeussi* 
+🎷 **Learning/playing:** *Bongo*  
+💃 **Movement:** *Gym*  
+🔭 **Curious about:** *Health ethics and social inclusivity*
 
 {%
   include button.html
-  link="research"
-  text="See our publications"
+  link="blog/art"
+  text="See all past explorations"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -27,19 +31,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  link="blog"
+  title="What I'm exploring right now"
   text=text
 %}
 
+## Ideas I’m Exploring
+
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I would like to start writing about cross-sectionality of ideas. I love uncovering pattern between concepts that we might initially think of as exclusive of one another. I also love learning new knowledge (at least to me) within specific fields. Here is to manifesting a future full of writing on topics of:
+
+**History, science, psychology, space, people, anything really**
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="blog/writings"
+  text="Read notes"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -50,32 +58,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  link="blog/writings"
+  title="Research Notes"
   text=text
 %}
