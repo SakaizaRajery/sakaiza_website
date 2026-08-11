@@ -19,4 +19,4 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include search-info.html %}
 
-{% include list.html component="card" data="posts" filter="group == 'explore'" %}
+{% include list.html component="post-excerpt" data="posts" filter="group == 'explore'" %}
