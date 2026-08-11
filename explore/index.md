@@ -1,9 +1,11 @@
 ---
 title: Explore
-nav: true
----
+nav:
   order: 1
   tooltip: art and hobbies
+---
+  
+  
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Explore
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
