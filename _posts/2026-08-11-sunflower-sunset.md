@@ -6,7 +6,7 @@ tags:
   - painting
   - health
   - process
-group: blog
+group: explore
 ---
 <!-- excerpt start -->
 The process of painting a sunflower sunset
