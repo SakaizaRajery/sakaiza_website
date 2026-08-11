@@ -1,6 +1,6 @@
 ---
 title: Explore
-nav: false
+nav: true
 ---
   order: 1
   tooltip: art and hobbies
