@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.06.05.658122
+  title: A genetically informed atlas of transcriptomic programs from massive human
+    RNA-seq compendia
+  authors:
+  - "Marc Subirana-Gran\xE9s"
+  - Haoyu Zhang
+  - Sutanu Nandi
+  - Jill Hoffman
+  - Sakaiza Rasolofomanana-Rajery
+  - Rawan Elshobaky
+  - Lucas A. Gillenwater
+  - Alexander P. McKim
+  - James C. Costello
+  - Maria Chikina
+  - Milton Pividori
+  publisher: openRxiv
+  date: '2025-06-09'
+  link: https://doi.org/g9p5tv
+  orcid: 0009-0005-2790-926X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.11.01.621627
   title: Network-based representation learning reveals the impact of age and diet
     on the gut microbial and metabolomic environment of U.S. infants in a randomized
