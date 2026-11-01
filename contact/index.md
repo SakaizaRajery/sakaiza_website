@@ -1,9 +1,10 @@
 ---
 title: Contact
-nav: false
+#nav:
+  #order: 5
+  #tooltip: Email, address, and location
 ---
-  order: 5
-  tooltip: Email, address, and location
+  
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
